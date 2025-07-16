@@ -1,0 +1,10 @@
+Context:
+{retrieved_docs}
+
+Tool Results:
+{tool_results}
+
+Question:
+{user_query}
+
+Use both context and tool outputs to provide a helpful final answer.
