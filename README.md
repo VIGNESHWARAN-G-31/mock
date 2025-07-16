@@ -1,4 +1,4 @@
-# Agentic RAG using Hugging Face and FAISS (Free)
+# Agentic RAG using Hugging Face and FAISS 
 
 ## Project Structure
 ```
